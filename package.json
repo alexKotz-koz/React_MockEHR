@@ -1,0 +1,19 @@
+{
+  "name": "react_flask_ehr",
+  "version": "1.0.0",
+  "description": "Mock Electronic Helath Record application. FrontEnd: React.js BackEnd: Python Flask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexKotz-koz/React_MockEHR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexKotz-koz/React_MockEHR/issues"
+  },
+  "homepage": "https://github.com/alexKotz-koz/React_MockEHR#readme"
+}
